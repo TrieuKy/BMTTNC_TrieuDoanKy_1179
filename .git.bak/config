@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 1
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/TrieuKy/BMTTNC_TrieuDoanKy_1179.git
